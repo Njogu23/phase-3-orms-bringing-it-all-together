@@ -136,6 +136,7 @@ describe Dog do
       )
     end
   end
+  
 
   # BONUS! uncomment the tests below for an extra challenge
   # describe '.find_or_create_by' do
